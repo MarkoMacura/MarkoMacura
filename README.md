@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**MarkoMacura/MarkoMacura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Marko's github stats](https://github-readme-stats.vercel.app/api?username=markomacura&show_icons=true&hide_border=true)
 
-Here are some ideas to get you started:
+Greetings! I am an aspiring software developer from Serbia.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
